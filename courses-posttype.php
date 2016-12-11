@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Courses post type
-Plugin URI: https://github.com/fheinle/courses-posttype
+Plugin URI: https://github.com/fheinle/wp-courses-posttype
 Description: represent a course listing in a schedule, with hours and picture
 Version: 1.0
 Author: Florian Heinle
